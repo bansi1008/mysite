@@ -68,20 +68,7 @@ intuitive experience for users."
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={resto}
-              isBlog={false}
-              title="Restaurant Landing Page"
-              description="Developed a dynamic and responsive landing page for a restaurant using React. Implemented interactive features like menu 
-display, reservation booking, and customer reviews. 
-Designed a visually appealing user interface with a focus on user experience and ease of navigation. 
-Ensured cross-browser compatibility and mobile responsiveness. Deployed the application on Netlify for seamless hosting 
-and accessibility."
-              demoLink="https://67c0f21d85804445893d6e71--strong-swan-afce65.netlify.app/"
-              ghLink="https://github.com/bansi1008/Resto"
-            />
-          </Col>
+       
 
           <Col md={4} className="project-card">
             <ProjectCard
